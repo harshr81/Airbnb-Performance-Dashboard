@@ -44,9 +44,9 @@ The objective was to transform this fragmented data into a "Decision-Support Too
   - Review Seasonality (Line Chart): Visualizes monthly review trends, highlighting peak summer travel in Europe (Paris/Rome) versus holiday season increases in New York.
   - Trust Shield: Analyzes host reliability by showing that 66.9% of hosts are fully verified with profile pictures, helping identify the "Trust Gap" among unverified users.
 
-![Page 2 Ratings]
+![Page 2 Ratings](
 
-![Page 3 Reviews]
+![Page 3 Reviews](https://github.com/harshr81/Airbnb-Performance-Dashboard/blob/36e2d3b2f5995bf6ca808863bb86c284909c4e05/Images/Page-3%20Reviews.png)
 
 - **Business Impact & Insights:**
   - Marketing & Strategic Growth: Teams can use market share and seasonality data to focus advertising efforts on high-volume cities like Paris and New York during their peak travel months. This allows the business to align promotional budgets with actual demand, ensuring they are reaching travelers at the right time in the most profitable regions.
