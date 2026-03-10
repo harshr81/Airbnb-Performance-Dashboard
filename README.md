@@ -46,7 +46,7 @@ The objective was to transform this fragmented data into a "Decision-Support Too
 
 ![Page 2 Ratings](https://github.com/harshr81/Airbnb-Performance-Dashboard/blob/6de8fdc5dc1c81a11bc7af9346a1013d5d01c683/Images/Airbnb%20Dashboard%20gif.gif)
 
-![Page 3 Reviews](https://github.com/harshr81/Airbnb-Performance-Dashboard/blob/36e2d3b2f5995bf6ca808863bb86c284909c4e05/Images/Page-3%20Reviews.png)
+![Page 3 Reviews](https://github.com/harshr81/Airbnb-Performance-Dashboard/blob/4f0fab4d5d46e12dd24a15918ba8b8350beecc5b/Images/Page-3%20Reviews.png)
 
 - **Business Impact & Insights:**
   - Marketing & Strategic Growth: Teams can use market share and seasonality data to focus advertising efforts on high-volume cities like Paris and New York during their peak travel months. This allows the business to align promotional budgets with actual demand, ensuring they are reaching travelers at the right time in the most profitable regions.
