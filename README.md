@@ -44,7 +44,7 @@ The objective was to transform this fragmented data into a "Decision-Support Too
   - Review Seasonality (Line Chart): Visualizes monthly review trends, highlighting peak summer travel in Europe (Paris/Rome) versus holiday season increases in New York.
   - Trust Shield: Analyzes host reliability by showing that 66.9% of hosts are fully verified with profile pictures, helping identify the "Trust Gap" among unverified users.
 
-![Page 2 Ratings](/images/Project1_Page1.png)
+![Page 2 Ratings]([/images/Project1_Page1.png](https://github.com/harshr81/Airbnb-Performance-Dashboard/blob/9bae54019a8e0a0d6ce31bc929f166543d162549/Images/Airbnb%20dashboard%20gif.mp4))
 ![Page 3 Reviews]([/images/Project1_Page1.png](https://github.com/harshr81/Airbnb-Performance-Dashboard/blob/b69dc4994701517e1cfa597cd5f8f7344abe70af/Images/Page-3%20Reviews.png))
 
 - **Business Impact & Insights:**
