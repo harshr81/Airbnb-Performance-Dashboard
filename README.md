@@ -6,7 +6,7 @@
 
 This project focuses on real analytical thinking to solve everyday business questions. I explored how to connect different pieces of information (Data Modeling) and used simple formulas (DAX) to uncover interesting stories. The dashboard looks at which cities lead the market, when people travel the most (seasonality), how prices compare to hotels, and what makes a guest feel safe (trust insights).
 
-![Page 1 Overview](https://github.com/harshr81/Airbnb-Performance-Dashboard/blob/120dc4e7721ac5fef8d2693f142fc2adc5fa9416/Images/Page-1%20Overview.png)
+![Page 1 Overview](https://github.com/harshr81/Airbnb-Performance-Dashboard/blob/8ee7723e95330cd1302ebce49e4ece6d91f686d9/Images/Page-1%20Overview.png)
 
 
 ## Skills Showcased
